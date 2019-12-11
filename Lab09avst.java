@@ -18,7 +18,7 @@ public class Lab09avst
 {
 
 
-private static int num, den; // numerator and denominator of the rational number
+private static int num, den; 
 
 
 
